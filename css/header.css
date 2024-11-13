@@ -1,0 +1,61 @@
+.page-header {
+    display: flex;
+    padding: 1vh 17vh 1vh 17vh;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .page-logo {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
+  .page-logo > span {
+    font-family: Exo;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 33.6px;
+    text-align: left;
+  }
+  .page-menu {
+    display: flex;
+  }
+  .page-menu > a {
+    padding: 20px;
+    transition: 0.7s;
+  }
+  .page-menu > a:hover {
+    background-color: rgba(245, 245, 245, 1);
+    color: rgba(255, 120, 45, 1) !important;
+  }
+  .page-menu > a {
+    text-decoration: none;
+    color: black;
+    font-family: Exo;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 19.2px;
+    text-align: left;
+  }
+  .page-login-register-search {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
+  .page-login-register {
+    font-family: Jost;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 27px;
+    text-align: left;
+    color: black;
+    text-decoration: none;
+    padding: 20px;
+    transition: 0.7s;
+  }
+
+  .page-login-register:hover {
+    background-color: rgba(245, 245, 245, 1);
+    color: rgba(255, 120, 45, 1) !important;
+  }
+
+  

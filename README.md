@@ -48,4 +48,4 @@ CÀI ĐẶT GIT
 - git add . ( add tất cả các file)
 - git status ( check xem đã add đc file chưa )
 - git commit -m 'huysexyeungyc'
-- git push origin <tên nhánh>
+- git push origin <tên nhánh> ( đừng tự add lên main )
